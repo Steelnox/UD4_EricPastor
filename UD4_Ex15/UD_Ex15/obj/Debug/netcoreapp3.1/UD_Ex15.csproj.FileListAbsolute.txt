@@ -1,0 +1,13 @@
+D:\Cursillos\Ejercicios\Proyectos\UD4\UD_Ex15\UD_Ex15\bin\Debug\netcoreapp3.1\UD_Ex15.exe
+D:\Cursillos\Ejercicios\Proyectos\UD4\UD_Ex15\UD_Ex15\bin\Debug\netcoreapp3.1\UD_Ex15.deps.json
+D:\Cursillos\Ejercicios\Proyectos\UD4\UD_Ex15\UD_Ex15\bin\Debug\netcoreapp3.1\UD_Ex15.runtimeconfig.json
+D:\Cursillos\Ejercicios\Proyectos\UD4\UD_Ex15\UD_Ex15\bin\Debug\netcoreapp3.1\UD_Ex15.runtimeconfig.dev.json
+D:\Cursillos\Ejercicios\Proyectos\UD4\UD_Ex15\UD_Ex15\bin\Debug\netcoreapp3.1\UD_Ex15.dll
+D:\Cursillos\Ejercicios\Proyectos\UD4\UD_Ex15\UD_Ex15\bin\Debug\netcoreapp3.1\UD_Ex15.pdb
+D:\Cursillos\Ejercicios\Proyectos\UD4\UD_Ex15\UD_Ex15\obj\Debug\netcoreapp3.1\UD_Ex15.csprojAssemblyReference.cache
+D:\Cursillos\Ejercicios\Proyectos\UD4\UD_Ex15\UD_Ex15\obj\Debug\netcoreapp3.1\UD_Ex15.AssemblyInfoInputs.cache
+D:\Cursillos\Ejercicios\Proyectos\UD4\UD_Ex15\UD_Ex15\obj\Debug\netcoreapp3.1\UD_Ex15.AssemblyInfo.cs
+D:\Cursillos\Ejercicios\Proyectos\UD4\UD_Ex15\UD_Ex15\obj\Debug\netcoreapp3.1\UD_Ex15.csproj.CoreCompileInputs.cache
+D:\Cursillos\Ejercicios\Proyectos\UD4\UD_Ex15\UD_Ex15\obj\Debug\netcoreapp3.1\UD_Ex15.dll
+D:\Cursillos\Ejercicios\Proyectos\UD4\UD_Ex15\UD_Ex15\obj\Debug\netcoreapp3.1\UD_Ex15.pdb
+D:\Cursillos\Ejercicios\Proyectos\UD4\UD_Ex15\UD_Ex15\obj\Debug\netcoreapp3.1\UD_Ex15.genruntimeconfig.cache
