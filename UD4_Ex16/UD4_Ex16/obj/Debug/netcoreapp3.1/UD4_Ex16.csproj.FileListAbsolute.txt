@@ -1,0 +1,13 @@
+D:\Cursillos\Ejercicios\Proyectos\UD4\UD4_Ex16\UD4_Ex16\bin\Debug\netcoreapp3.1\UD4_Ex16.exe
+D:\Cursillos\Ejercicios\Proyectos\UD4\UD4_Ex16\UD4_Ex16\bin\Debug\netcoreapp3.1\UD4_Ex16.deps.json
+D:\Cursillos\Ejercicios\Proyectos\UD4\UD4_Ex16\UD4_Ex16\bin\Debug\netcoreapp3.1\UD4_Ex16.runtimeconfig.json
+D:\Cursillos\Ejercicios\Proyectos\UD4\UD4_Ex16\UD4_Ex16\bin\Debug\netcoreapp3.1\UD4_Ex16.runtimeconfig.dev.json
+D:\Cursillos\Ejercicios\Proyectos\UD4\UD4_Ex16\UD4_Ex16\bin\Debug\netcoreapp3.1\UD4_Ex16.dll
+D:\Cursillos\Ejercicios\Proyectos\UD4\UD4_Ex16\UD4_Ex16\bin\Debug\netcoreapp3.1\UD4_Ex16.pdb
+D:\Cursillos\Ejercicios\Proyectos\UD4\UD4_Ex16\UD4_Ex16\obj\Debug\netcoreapp3.1\UD4_Ex16.csprojAssemblyReference.cache
+D:\Cursillos\Ejercicios\Proyectos\UD4\UD4_Ex16\UD4_Ex16\obj\Debug\netcoreapp3.1\UD4_Ex16.AssemblyInfoInputs.cache
+D:\Cursillos\Ejercicios\Proyectos\UD4\UD4_Ex16\UD4_Ex16\obj\Debug\netcoreapp3.1\UD4_Ex16.AssemblyInfo.cs
+D:\Cursillos\Ejercicios\Proyectos\UD4\UD4_Ex16\UD4_Ex16\obj\Debug\netcoreapp3.1\UD4_Ex16.csproj.CoreCompileInputs.cache
+D:\Cursillos\Ejercicios\Proyectos\UD4\UD4_Ex16\UD4_Ex16\obj\Debug\netcoreapp3.1\UD4_Ex16.dll
+D:\Cursillos\Ejercicios\Proyectos\UD4\UD4_Ex16\UD4_Ex16\obj\Debug\netcoreapp3.1\UD4_Ex16.pdb
+D:\Cursillos\Ejercicios\Proyectos\UD4\UD4_Ex16\UD4_Ex16\obj\Debug\netcoreapp3.1\UD4_Ex16.genruntimeconfig.cache
